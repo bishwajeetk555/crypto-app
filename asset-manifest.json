@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/bishwajeetk555/Crypto-app/static/js/main.b2eaff8e.js",
+    "static/media/btc.png": "/bishwajeetk555/Crypto-app/static/media/btc.04101b0b163c035fa57e.png",
+    "index.html": "/bishwajeetk555/Crypto-app/index.html",
+    "main.b2eaff8e.js.map": "/bishwajeetk555/Crypto-app/static/js/main.b2eaff8e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b2eaff8e.js"
+  ]
+}
