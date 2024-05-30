@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/bishwajeetk555/Crypto-app/static/js/main.b2eaff8e.js",
-    "static/media/btc.png": "/bishwajeetk555/Crypto-app/static/media/btc.04101b0b163c035fa57e.png",
-    "index.html": "/bishwajeetk555/Crypto-app/index.html",
-    "main.b2eaff8e.js.map": "/bishwajeetk555/Crypto-app/static/js/main.b2eaff8e.js.map"
+    "main.js": "/crypto-app/static/js/main.efd4b7a5.js",
+    "static/media/btc.png": "/crypto-app/static/media/btc.04101b0b163c035fa57e.png",
+    "index.html": "/crypto-app/index.html",
+    "main.efd4b7a5.js.map": "/crypto-app/static/js/main.efd4b7a5.js.map"
   },
   "entrypoints": [
-    "static/js/main.b2eaff8e.js"
+    "static/js/main.efd4b7a5.js"
   ]
 }
